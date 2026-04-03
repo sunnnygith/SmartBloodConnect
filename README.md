@@ -1,9 +1,7 @@
-# SmartBloodConnect
-Blood donor portal using Java, JSP/Servlet, MySQL
 # 🩸 Smart Blood Connect – LPU
 
 A Java web application for the LPU campus community to connect blood donors and recipients.
-
+Blood donor portal using Java, JSP/Servlet, MySQL
 ## Tech Stack
 - **Backend:** Java (JSP/Servlet)
 - **Database:** MySQL
